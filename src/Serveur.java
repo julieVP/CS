@@ -6,5 +6,8 @@ public class Serveur {
 		if (c != null) return true; 
 		else return false;
 	}
-	public String diffuser(String message) {}
+	public void diffuser(String message) {
+		
+		
+	}
 }
